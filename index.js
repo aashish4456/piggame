@@ -76,7 +76,3 @@ start.addEventListener('click',function(){
     document.getElementById('name--0').classList.add('player-active');
    
 });
-djndakxgcsdajgjad;
-dacxgcdsfzjxcgkl
-\adgkdszgajdxgsdkgx;sldjfgkdszx
-\gsdjg;lsdkgk;skdzx
